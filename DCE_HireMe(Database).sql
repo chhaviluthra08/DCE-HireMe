@@ -17,10 +17,10 @@ INSERT INTO student(id, name, password) VALUES(8, 'gunik', 'gunik123');
 INSERT INTO student(id, name, password) VALUES(9, 'hardik', 'hardik123');
 INSERT INTO student(id, name, password) VALUES(10, 'isha', 'isha123');
 
-INSERT INTO admin(id, password) VALUES(1, 'admin111');
-INSERT INTO admin(id, password) VALUES(2, 'admin222');
-INSERT INTO admin(id, password) VALUES(3, 'admin333');
-INSERT INTO admin(id, password) VALUES(4, 'admin444');
+INSERT INTO admin(id, password) VALUES(1, '*******'); 
+INSERT INTO admin(id, password) VALUES(2, '*******');
+INSERT INTO admin(id, password) VALUES(3, '*******');
+INSERT INTO admin(id, password) VALUES(4, '*******');
 
 INSERT INTO OnCampusPlacement(name, post, eligibilty, startDate, endDate, stipend) VALUES('Maverick Quality Advisory Services Pvt Ltd', NULL, '2020-2024 Batch', '2024-04-06 00:00:00', '2024-04-06 11:59:00', NULL);
 INSERT INTO OnCampusPlacement(name, post, eligibilty, startDate, endDate, stipend) VALUES('Ornate TechnoServices Pvt. Ltd', NULL, '2020-2024 Batch', '2024-04-11 00:00:00', '2024-04-11 11:59:00', NULL);
